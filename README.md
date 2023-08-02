@@ -8,8 +8,9 @@ It will contain which instructions to strictly follow before giving any coding t
     4. x=2
     5. Q1=30 min, Q2=20 min, Q3=10 min
 02. Read the problem statement carefully and don't rush.
-03. If any company is giving TLE then understand the constraints.
-04. If failing testcases then debug code smartly.
+03. Select Language
+04. If any company is giving TLE then understand the constraints.
+05. If failing testcases then debug code smartly.
     1. Give Custom input and dry run your code. //if no logical error go to next step
     2. write the print statements on parts of your code //first divide code in big parts and then start narrow down the part of error
     3. Stub function
